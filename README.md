@@ -8,7 +8,7 @@
 ### Taller de legislación informática
 ---
 ## TÍTULO DE TRABAJO: 
-### Actividad de la Unidad
+### Cuadro comparativo U2
 ---
 ## UNIDAD A EVALUAR: 
 ### Segunda
@@ -22,4 +22,4 @@
 ### Sanchez Vizcarra Daniela Adriana
 ---
 ## FECHA DE ENTREGA:
-### Viernes 07 de abril del 2022
+### Miercoles 06 de abril del 2022

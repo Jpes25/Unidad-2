@@ -24,6 +24,9 @@
 ## FECHA DE ENTREGA:
 ### Miercoles 06 de abril del 2022
 ---
+
+## Cuadro comparativo
+
 |Informatica juridica   |Concepto   |Caracteristicas    |
 |-----------------------|-----------|-------------------|
 |Documentaria           |Se desarrolla con la finalidad de expandir los sistemas de documentación automatizada, por cuanto es evidente en la actualidad que los campos de conocimientos reflejados en textos; es decir, en volúmenes documentarios, ha crecido y expandido tanto, que los métodos tradicionales de búsqueda documentaria han quedado totalmente obsoletos.           | Se analiza la informacion contenida en documentos juridicos para formar bancos de datos, persigue el almacenamiento de datos e informacion y su clasifiacion, conocimientos, principios, doctrinas que catalogan a estas diciplinas como ciencias, que tienen como marco estricto a la lusibernetica y cibernetica.

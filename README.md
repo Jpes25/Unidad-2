@@ -23,3 +23,9 @@
 ---
 ## FECHA DE ENTREGA:
 ### Miercoles 06 de abril del 2022
+---
+|Informatica juridica   |Concepto   |Caracteristicas    |
+|-----------------------|-----------|-------------------|
+|Documentaria           |           |                   |
+|De control y gestion   |           |                   |
+|Metadocumentaria       |           |                   |

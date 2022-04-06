@@ -26,6 +26,4 @@
 ---
 |Informatica juridica   |Concepto   |Caracteristicas    |
 |-----------------------|-----------|-------------------|
-|Documentaria           |           |                   |
-|De control y gestion   |           |                   |
-|Metadocumentaria       |           |                   |
+|Documentaria           |Se desarrolla con la finalidad de expandir los sistemas de documentación automatizada, por cuanto es evidente en la actualidad que los campos de conocimientos reflejados en textos; es decir, en volúmenes documentarios, ha crecido y expandido tanto, que los métodos tradicionales de búsqueda documentaria han quedado totalmente obsoletos.           | Se analiza la informacion contenida en documentos juridicos para formar bancos de datos. Persigue el almacenamiento de datos e informacion y su clasifiacion. Persigue el almacenamiento de datos e informacion y su clasifiacion. Conocimientos, principios, doctrinas que catalogan a estas diciplinas como ciencias, que tienen como marco estricto a la lusibernetica y cibernetica.
